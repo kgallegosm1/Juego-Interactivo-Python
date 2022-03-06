@@ -1,2 +1,2 @@
 # Juego-Interactivo-Python
-Es un juego interactivo de Selección múltiple sobre Python.
+Este documento presenta el diseño y construccion de un juego realizado en Ardora y Exelearning, que fomenta el aprendizaje sobre Phyton

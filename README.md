@@ -34,5 +34,8 @@ El juego tiene 6 preguntas con 3 respuestas alternativas, todas las preguntas co
 
 ![image](https://user-images.githubusercontent.com/101061647/157111837-28a2ebd1-ebaf-49ff-8f87-c37b5b7680c1.png)
 
+# Video Explicativo
+https://youtu.be/c63NmjTMRTk
+
 # Autores
 Kevin Gallegos y Ariana Tamayo

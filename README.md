@@ -20,3 +20,5 @@ El juego de sopa de letras se baso con definicion de las palabras a buscar como 
 El objetivo del juego es que el usuario aprenda de manera interactiva los conceptos sobre Python y sus funciones.
 
 Si desean jugarlo: file:///C:/Users/kevin/Downloads/Software%20Libre/Sopa_de_Letras/Sopa_de_Letras.htm
+
+En Exelearning

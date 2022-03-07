@@ -13,3 +13,6 @@ La informacion utilizada en los juegos fue de un documento llamado "Codifica en 
 
 En Ardora se realizo el juego de la sopa de letras que tiene como funcion encontrar palabras relacionadas con la definicion que se encuentran a un costado de la sopa de letras y el objetivo del juego es que el usuario aprenda sobre Python.
 Al momoento de realizar el juego, Ardora tiene una gran variedad de juegos para aprender y enseñar, nosotros como autores del juego escogimos sopa de letras, ya que tiene funciones sencillas al momento de construilo.
+
+![image](https://user-images.githubusercontent.com/101061647/157079273-0419f4c9-5009-4b36-838f-ce0dd27d34a6.png)
+

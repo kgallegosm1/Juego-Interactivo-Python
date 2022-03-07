@@ -18,3 +18,6 @@ Al momento de  ejecutar el programa, Ardora nos mostraba una gran variedad de ju
 Como se pueden percatar en la imagen, las funciones del programa Ardora nos facilitan ciertos parametros ya que viene de manera predeterminada pero pueden ser modificadas por nosotros mismos.
 El juego de sopa de letras se baso con definicion de las palabras a buscar como metodo de solucion que se muestran al costado derecho de la sopa de letras al momento de ejecutarlo, y se puede modificar al gusto del autor en como diseñar el juego, nosotros lo hicimos como en la imagen compartida.
 El objetivo del juego es que el usuario aprenda de manera interactiva los conceptos sobre Python y sus funciones.
+
+Si desean jugarlo: file:///C:/Users/kevin/Desktop/Sopa_de_Letras/Sopa_de_Letras.htm
+
